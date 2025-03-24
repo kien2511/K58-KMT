@@ -79,6 +79,10 @@ BẢNG LIÊN KẾT KHÓA CHÍNH KHÓA NGOẠI
 ![image](https://github.com/user-attachments/assets/7b52aab1-155f-4f00-ad01-40394bcbffa2)
 ![image](https://github.com/user-attachments/assets/c649603a-8e21-4949-bd6b-69c308ce29fe)
 
+BẢNG TRUY VẤN DỮ LIỆU
+![image](https://github.com/user-attachments/assets/cce83d84-242e-491a-9123-41ad04590de7)
+
+
 2.Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sq
 
 ![image](https://github.com/user-attachments/assets/a2e1a829-a4a4-4c4d-83b2-e0ef9c3c1156)
