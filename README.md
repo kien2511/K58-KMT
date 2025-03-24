@@ -54,6 +54,11 @@ BẢNG LỚP HỌC PHẦN
 
 ![image](https://github.com/user-attachments/assets/393e3ed3-4dae-4b16-a0cf-60f2044f1cb6)
 
+HỌC KÌ 
+
+![image](https://github.com/user-attachments/assets/3382502b-e7ec-4519-8212-60de6bb2af11)
+
+
 BẢNG LỚP SINH VIÊN
 
 ![image](https://github.com/user-attachments/assets/62d0ef36-3d54-48c1-95c3-17cd3bebed29)
@@ -69,6 +74,10 @@ BẢNG SINH VIÊN
 BẢNG MÔN HỌC
 
 ![image](https://github.com/user-attachments/assets/4b57f5c9-87e0-42f3-b5fe-0b9a45523608)
+
+SỐ TÍN CHỈ KHÔNG VƯỢT QUÁ 4 TÍN
+![image](https://github.com/user-attachments/assets/857fb4f9-60ef-4178-b513-28d394a1aac2)
+
 
 BẢNG ĐĂNG KÍ MÔN HỌC 
 
