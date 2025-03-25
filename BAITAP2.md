@@ -91,14 +91,22 @@ BẢNG LIÊN KẾT KHÓA CHÍNH KHÓA NGOẠI
 BẢNG TRUY VẤN DỮ LIỆU
 ![image](https://github.com/user-attachments/assets/cce83d84-242e-491a-9123-41ad04590de7)
 
-
-2.Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sq
-
 ![image](https://github.com/user-attachments/assets/a2e1a829-a4a4-4c4d-83b2-e0ef9c3c1156)
 
 KẾT QUẢ
 
 ![image](https://github.com/user-attachments/assets/69f55a98-727b-4768-84bc-149cd5995900)
+
+
+2.Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sq
+
+
+![image](https://github.com/user-attachments/assets/94c8246e-87f0-4054-bf6a-fa6afa2a31db)
+![image](https://github.com/user-attachments/assets/c3373c23-d4b6-4501-85ac-6e2a9aed1d1f)
+![image](https://github.com/user-attachments/assets/c6b68aca-8efb-4dde-9bc8-42ee029e6a0c)
+![image](https://github.com/user-attachments/assets/943fa22c-140e-4b00-aa30-91b76b344f8c)
+
+
 
 
 
