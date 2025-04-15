@@ -1,4 +1,4 @@
-## BÀI TẬP VỀ NHÀ 03 - MÔN HỆ QUẢN TRỊ CSDL:
+## BÀI TẬP VỀ NHÀ 02 - 03 - MÔN HỆ QUẢN TRỊ CSDL:
 
 ## DEADLINE: 23H59 NGÀY 30/03/2025
 
@@ -178,8 +178,6 @@ tạo bảng điểm
 ![image](https://github.com/user-attachments/assets/9b8893b5-e76c-4fd6-bdfa-4571e5913da3)
 tạo bảng đăng kí môn học
 ![image](https://github.com/user-attachments/assets/e2722e54-a22e-4ecb-83fb-def3602e9830)
-bảng diagram 
-![image](https://github.com/user-attachments/assets/c2a87458-9287-4eca-ad6e-ffa1b69dfd64)
 
 ![image](https://github.com/user-attachments/assets/8e585628-e685-417b-a6c4-3999c5dd847d)
 ![image](https://github.com/user-attachments/assets/d966ab06-c3e6-4f39-9eb5-449b43286055)
