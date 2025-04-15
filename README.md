@@ -156,6 +156,31 @@ WHERE SV.MASINHVIEN = 'K225480106032'
 AND LHP.MALOPHOCPHAN = 'K58';
 
 ## ẢNH THAO TÁC
+tạo bảng bộ môn
+![image](https://github.com/user-attachments/assets/f372404e-a74d-40ba-a9f5-a109f1b8a865)
+tạo bảng khoa
+![image](https://github.com/user-attachments/assets/720b4e7f-218b-4627-97f4-9c2fb69f6091)
+tạo bảng giáo viên
+![image](https://github.com/user-attachments/assets/a7167d5e-2513-49c7-b742-130b2709bcb6)
+tạo bảng giáo viên chủ nhiệm 
+![image](https://github.com/user-attachments/assets/5dbba616-d593-4963-99e0-cf67a8f6e96c)
+tạo bảng lớp
+![image](https://github.com/user-attachments/assets/fe7b4287-692e-41c1-8afd-f13de8c152aa)
+tạo bảng lớp học phần 
+![image](https://github.com/user-attachments/assets/19665ed6-d6a9-4186-9b2c-fbc16d450d69)
+tạo bảng lớp sinh viên
+![image](https://github.com/user-attachments/assets/ef96b5c8-d1b2-4f63-ac6a-af27f8f1e8f9)
+tạo bảng môn học
+![image](https://github.com/user-attachments/assets/dc7922dd-1b81-4029-9ed4-41c35be1e9ae)
+tạo bảng sinh viên 
+![image](https://github.com/user-attachments/assets/8fd7f8e0-784b-4fe9-86b4-dee24b674a0c)
+tạo bảng điểm 
+![image](https://github.com/user-attachments/assets/9b8893b5-e76c-4fd6-bdfa-4571e5913da3)
+tạo bảng đăng kí môn học
+![image](https://github.com/user-attachments/assets/e2722e54-a22e-4ecb-83fb-def3602e9830)
+bảng diagram 
+![image](https://github.com/user-attachments/assets/c2a87458-9287-4eca-ad6e-ffa1b69dfd64)
+
 ![image](https://github.com/user-attachments/assets/8e585628-e685-417b-a6c4-3999c5dd847d)
 ![image](https://github.com/user-attachments/assets/d966ab06-c3e6-4f39-9eb5-449b43286055)
 ![image](https://github.com/user-attachments/assets/79647897-20b6-4a14-ac13-13a3dd05ce1e)
