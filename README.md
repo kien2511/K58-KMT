@@ -178,11 +178,9 @@ tạo bảng điểm
 ![image](https://github.com/user-attachments/assets/9b8893b5-e76c-4fd6-bdfa-4571e5913da3)
 tạo bảng đăng kí môn học
 ![image](https://github.com/user-attachments/assets/e2722e54-a22e-4ecb-83fb-def3602e9830)
-
 ![image](https://github.com/user-attachments/assets/8e585628-e685-417b-a6c4-3999c5dd847d)
 ![image](https://github.com/user-attachments/assets/d966ab06-c3e6-4f39-9eb5-449b43286055)
 ![image](https://github.com/user-attachments/assets/79647897-20b6-4a14-ac13-13a3dd05ce1e)
-![image](https://github.com/user-attachments/assets/bfdc9b9d-d452-4c1c-ab39-71f0425af39e)
 ![image](https://github.com/user-attachments/assets/60c7fd64-6c14-410b-af14-def22c41abc3)
 
 
